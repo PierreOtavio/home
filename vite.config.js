@@ -3,6 +3,5 @@ import { defineConfig } from 'vite'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/pizzaria_portfolio_site/' // nome exato do repositório Github,
-
+  base: '/home/' // nome exato do repositório Github,
 })
